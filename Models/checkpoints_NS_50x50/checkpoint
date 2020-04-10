@@ -1,0 +1,2 @@
+model_checkpoint_path: "/home/kushal/CS-RRT/new_models/checkpoints_NS_50x50_hard/model.ckpt"
+all_model_checkpoint_paths: "/home/kushal/CS-RRT/new_models/checkpoints_NS_50x50_hard/model.ckpt"
